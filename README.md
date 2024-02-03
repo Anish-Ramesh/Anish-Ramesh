@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Python, Java and C++ and HTML Projects**
+- 🔭 I’m currently working on **Python, Java, C++ and HTML Projects**
 
-- 🌱 I’m currently learning **Python, Java, C, C++,HTML,Cascading Style Sheet,Java Script**
+- 🌱 I’m currently learning **Python, Java, C, C++, HTML, Cascading Style Sheet, Java Script**
 
-- 💬 Ask me about **Python, Java, C, C++,HTML,Cascading Style Sheet,Java Script**
+- 💬 Ask me about **Python, Java, C, C++, HTML, Cascading Style Sheet, Java Script**
 
 - 📫 How to reach me **anishramesh005@gmail.com, https://www.linkedin.com/in/anish-ramesh-047185291/**
 
