@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Anish Ramesh</h1>
-<h3 align="center">A Machine Learning Engineer from Chennai, India. Currently Studying In Chennai Institute Of Technology 2023-2027</h3>
+<h3 align="center">A Machine Learning Engineer from Chennai, India. Currently Studying In Chennai Institute Of Technology (Batch:2023-2027)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="anish-ramesh" /> </p>
 
